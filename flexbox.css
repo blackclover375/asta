@@ -1,0 +1,25 @@
+
+.container {
+    
+    border: 4px solid rgb(207, 65, 65);
+    height: 240px;
+}
+
+.one{
+    background-color: rgb(227, 227, 12);
+   
+    height: 70px;
+    
+}
+.three{
+    background-color: blue;
+    
+    height:80px;
+    
+}
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
